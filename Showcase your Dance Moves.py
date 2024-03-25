@@ -7,3 +7,12 @@ if weather == "sunny":
     print("Wear sunglasses!")
 else:
     print("Take an umbrella!")
+
+    # Task 2: Your Mood Today
+
+Mood = "happy"
+
+if Mood == "happy":
+    print("That's great to hear!")
+else:
+    print("I hope your day gets better!")
